@@ -36,7 +36,9 @@ namespace GitTest1
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
+
             MessageBox.Show("수리수리마수리");
+
         }
     }
 }
