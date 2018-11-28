@@ -33,5 +33,10 @@ namespace GitTest1
             this.label1.Text = "얌얌얌";
 
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("수리수리마수리");
+        }
     }
 }
